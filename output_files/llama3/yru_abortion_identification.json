@@ -1,2942 +1,3677 @@
 [
   {
     "id": "ab1",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab1",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab1",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab2",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab2",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab3",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab3",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab4",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab5",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab6",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab6",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab7",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab8",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab9",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab10",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab10",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab11",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab12",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab13",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab14",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab15",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab16",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab17",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab18",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab19",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab20",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab21",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab21",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab23",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "a3ds",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab24",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab24",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab24",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab25",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab26",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab26",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab26",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab26",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab27",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab28",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab29",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab29",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab30",
-    "label": 1
+    "label": 1,
+    "argument": "c-other"
   },
   {
     "id": "ab31",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab31",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab32",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab33",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab35",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab36",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab37",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab38",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab39",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab40",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab41",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab42",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab42",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab44",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab44",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab45",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab46",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab47",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab47",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab47",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab48",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab49",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab51",
-    "label": 0
+    "label": 0,
+    "argument": "c-other"
   },
   {
     "id": "ab52",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab53",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab54",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab54",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab55",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab55",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab55",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab56",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab56",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab57",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab57",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab58",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab59",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab59",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab60",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab60",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab60",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab61",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab63",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab64",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab65",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab66",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab67",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab68",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab68",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab68",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab68",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab69",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab70",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab70",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab71",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab71",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab72",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab72",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab73",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab74",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab75",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab76",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab77",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab78",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab78",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab79",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab79",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab80",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab81",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab82",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab82",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab83",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab83",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab83",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab84",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab85",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab85",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab86",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab87",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab88",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab90",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab91",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab92",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab93",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab94",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab95",
-    "label": 0
+    "label": 0,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab95",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab95",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab95",
-    "label": 0
+    "label": 0,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab96",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab97",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab97",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab97",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab98",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab99",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab100",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab101",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab102",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab103",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab104",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab105",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab105",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab106",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab107",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab108",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab109",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab109",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab110",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab111",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab112",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab113",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab113",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab113",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab114",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab115",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab116",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab116",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab116",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab117",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab117",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab118",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab119",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab119",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab120",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab120",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab120",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab121",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab122",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab123",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab124",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab125",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab125",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab125",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab126",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab126",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab127",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab128",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab128",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab128",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab129",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab129",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab129",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab130",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab131",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab132",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab133",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab134",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab134",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab135",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab135",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab136",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab137",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab138",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab139",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab139",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab140",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab141",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab142",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab142",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab142",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab142",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab143",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab143",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab144",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab145",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab145",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab146",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab147",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab148",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab148",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab149",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab150",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab150",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab151",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab152",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab154",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab154",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab155",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab156",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab156",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab157",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab158",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab159",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab159",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab160",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab160",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab160",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab161",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab161",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab162",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab162",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab163",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab164",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab164",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab164",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab165",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab165",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab166",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab167",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab167",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab167",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab167",
-    "label": 1
+    "label": 1,
+    "argument": "c-other"
   },
   {
     "id": "ab167",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab168",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab169",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab170",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab171",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab171",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab172",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab172",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab172",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab173",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab174",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab175",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab175",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab176",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab176",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab23",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab23",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab177",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab178",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab180",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab180",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab180",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab180",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab181",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab181",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab182",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab183",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab183",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab184",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab184",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab184",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab185",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab185",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab186",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab187",
-    "label": 0
+    "label": 0,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab188",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab188",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab185",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab185",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab189",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab190",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab190",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab190",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab192",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab192",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab192",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab192",
-    "label": 0
+    "label": 0,
+    "argument": "c-other"
   },
   {
     "id": "ab193",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab193",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab193",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab193",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab194",
-    "label": 0
+    "label": 0,
+    "argument": "c-other"
   },
   {
     "id": "ab194",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab195",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab195",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab195",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab195",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab196",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab196",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab197",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab197",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab198",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab200",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab201",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab201",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab201",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab202",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab203",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab203",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab204",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab204",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab204",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab205",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab206",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab207",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab208",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab209",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab209",
-    "label": 1
+    "label": 1,
+    "argument": "c-other"
   },
   {
     "id": "ab210",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab210",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab211",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab211",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab211",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab212",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab213",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab213",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_murder"
   },
   {
     "id": "comment analysis",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab214",
-    "label": 1
+    "label": 1,
+    "argument": "c-other"
   },
   {
     "id": "ab215",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab216",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab217",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab217",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab217",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab218",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab218",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab219",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab220",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab221",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab221",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab222",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab222",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab222",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab223",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab223",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab223",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab224",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab225",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab226",
-    "label": 0
+    "label": 0,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab227",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab228",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab228",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab229",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab230",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab230",
-    "label": 1
+    "label": 1,
+    "argument": "c-other"
   },
   {
     "id": "ab230",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab230",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab231",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab231",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab231",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab232",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab232",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab232",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab233",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab233",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab233",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab233",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab234",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab234",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab235",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "comment1",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab236",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab237",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab238",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab239",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab239",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab240",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab241",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab242",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab243",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab243",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab244",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab245",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab246",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab247",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab248",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab248",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab249",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab249",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab250",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab250",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab250",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab251",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab251",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab252",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab253",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab253",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab254",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab254",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab255",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab255",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab256",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab257",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab257",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab258",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab259",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab259",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab260",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab261",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab261",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab261",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab262",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab263",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab263",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab264",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab265",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab266",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab266",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab267",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab268",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab269",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab172",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab172",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab172",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab270",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab271",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab271",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab271",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab271",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab271",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab272",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab272",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab273",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab273",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab274",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab275",
-    "label": 0
+    "label": 0,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab275",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab276",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab277",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab277",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab278",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab279",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab280",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab281",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab282",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab283",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab284",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab284",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab284",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab284",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab285",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab285",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab285",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab286",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab287",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab287",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab287",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab287",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab287",
-    "label": 0
+    "label": 0,
+    "argument": "c-other"
   },
   {
     "id": "ab287",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab288",
-    "label": 0
+    "label": 0,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab289",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab290",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab291",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab291",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab292",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab47",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab47",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab47",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab293",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab294",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab294",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab295",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab296",
-    "label": 0
+    "label": 0,
+    "argument": "c-other"
   },
   {
     "id": "ab296",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab297",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab297",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab297",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab298",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab299",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab299",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab227",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab300",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab301",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab301",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab302",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab302",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab302",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab303",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab304",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab305",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab305",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab306",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab307",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab307",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab308",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab309",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab309",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab310",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab311",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab312",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab312",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab313",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab314",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab315",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab316",
-    "label": 0
+    "label": 0,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab318",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab320",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab320",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab321",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab321",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab321",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab322",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab322",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab322",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab323",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab324",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab324",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab325",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab325",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab326",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab326",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab327",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab328",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab328",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab328",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab329",
-    "label": 1
+    "label": 1,
+    "argument": "c-other"
   },
   {
     "id": "ab329",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab329",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab330",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab331",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab331",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab331",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab332",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab333",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab334",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab334",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab334",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab335",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab335",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab336",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab337",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab338",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab339",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab340",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab341",
-    "label": 0
+    "label": 0,
+    "argument": "p-other"
   },
   {
     "id": "ab342",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab342",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab342",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab343",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab344",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab345",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab345",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab345",
-    "label": 0
+    "label": 0,
+    "argument": "c-other"
   },
   {
     "id": "ab345",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab346",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab347",
-    "label": 1
+    "label": 1,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab347",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab347",
-    "label": 0
+    "label": 0,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab348",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab348",
-    "label": 0
+    "label": 0,
+    "argument": "p-rape"
   },
   {
     "id": "ab349",
-    "label": 0
+    "label": 0,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab349",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab350",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab350",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab351",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab352",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab353",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab353",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab354",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab355",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab355",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab355",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab356",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab357",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab358",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab359",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab359",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab360",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab361",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab361",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab362",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab362",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab363",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab364",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab365",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab365",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab365",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab365",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab366",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab367",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab368",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab369",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab370",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab370",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab370",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab371",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab372",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab373",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab373",
-    "label": 0
+    "label": 0,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab374",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab375",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab375",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab375",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab376",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab248",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab377",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab378",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab378",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab379",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab379",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab379",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab380",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab381",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab381",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab381",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab381",
-    "label": 0
+    "label": 0,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab382",
-    "label": 0
+    "label": 0,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab383",
-    "label": 1
+    "label": 1,
+    "argument": "p-other"
   },
   {
     "id": "ab384",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab384",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab384",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab384",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab384",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab385",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab386",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab386",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab386",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab387",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab387",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab388",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab389",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab389",
-    "label": 0
+    "label": 0,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab390",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab391",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab391",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab392",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab393",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab394",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab394",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab395",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab395",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab396",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab396",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab396",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab396",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   },
   {
     "id": "ab397",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab398",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab399",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab400",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab400",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab400",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab401",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab402",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab402",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab403",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab403",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab404",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab404",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab405",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab405",
-    "label": 1
+    "label": 1,
+    "argument": "c-bad_4_mom"
   },
   {
     "id": "ab406",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab407",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab408",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab409",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab410",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab411",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab412",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab413",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab414",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab415",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab415",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab415",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab416",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab417",
-    "label": 1
+    "label": 1,
+    "argument": "p-rape"
   },
   {
     "id": "ab417",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab418",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab418",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab419",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab420",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab421",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab422",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab422",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab423",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab424",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab425",
-    "label": 0
+    "label": 0,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab426",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab427",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_murder"
   },
   {
     "id": "ab427",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab427",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab428",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab428",
-    "label": 1
+    "label": 1,
+    "argument": "c-adopt"
   },
   {
     "id": "ab429",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab429",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab430",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab430",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab431",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab431",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab432",
-    "label": 0
+    "label": 0,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab433",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab434",
-    "label": 1
+    "label": 1,
+    "argument": "c-kill"
   },
   {
     "id": "ab434",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab435",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab436",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab437",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab438",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab439",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab440",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab441",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab441",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab442",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab443",
-    "label": 0
+    "label": 0,
+    "argument": "c-sex"
   },
   {
     "id": "ab443",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab444",
-    "label": 1
+    "label": 1,
+    "argument": "p-baby_ill_treatment"
   },
   {
     "id": "ab269",
-    "label": 1
+    "label": 1,
+    "argument": "c-sex"
   },
   {
     "id": "ab445",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab445",
-    "label": 1
+    "label": 1,
+    "argument": "p-mother_danger"
   },
   {
     "id": "ab446",
-    "label": 1
+    "label": 1,
+    "argument": "c-other"
   },
   {
     "id": "ab447",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab448",
-    "label": 0
+    "label": 0,
+    "argument": "p-right"
   },
   {
     "id": "ab449",
-    "label": 0
+    "label": 0,
+    "argument": "p-birth_ctrl"
   },
   {
     "id": "ab450",
-    "label": 1
+    "label": 1,
+    "argument": "p-not_human"
   },
   {
     "id": "ab450",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab451",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab452",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab453",
-    "label": 0
+    "label": 0,
+    "argument": "c-kill"
   },
   {
     "id": "ab454",
-    "label": 1
+    "label": 1,
+    "argument": "c-baby_right"
   },
   {
     "id": "ab455",
-    "label": 0
+    "label": 0,
+    "argument": "p-not_human"
   },
   {
     "id": "ab455",
-    "label": 0
+    "label": 0,
+    "argument": "c-adopt"
   },
   {
     "id": "ab456",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab456",
-    "label": 1
+    "label": 1,
+    "argument": "p-right"
   },
   {
     "id": "ab456",
-    "label": 1
+    "label": 1,
+    "argument": "p-sick_mom"
   }
 ]

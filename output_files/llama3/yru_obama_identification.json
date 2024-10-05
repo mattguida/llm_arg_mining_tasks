@@ -1,2586 +1,3232 @@
 [
   {
     "id": "oba1",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba2",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba3",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba4",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba5",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba6",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba7",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba7",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba8",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba8",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba9",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba9",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba10",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba10",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba11",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba12",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba13",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba14",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba15",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba16",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba16",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba17",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba17",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba17",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba18",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba18",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba19",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba20",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba20",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba21",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba22",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba23",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba24",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba25",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba25",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba26",
-    "label": 0
+    "label": 0,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba26",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba27",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba28",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba29",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba30",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba31",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba31",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba32",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba32",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba32",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba32",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba32",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba32",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba33",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba34",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba34",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba34",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba35",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba35",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba36",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba37",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba37",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba37",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba37",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba37",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba37",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba38",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba39",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba39",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba40",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba40",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba40",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba40",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba41",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba41",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba41",
-    "label": 0
+    "label": 0,
+    "argument": "p-job"
   },
   {
     "id": "oba41",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba42",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba43",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba43",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba43",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba44",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba45",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba46",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba47",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba48",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba49",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba50",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba50",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba51",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba51",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba52",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba53",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba54",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba54",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba55",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba55",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba56",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba57",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba58",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba59",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba60",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba60",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba61",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba62",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba63",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba64",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba64",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba65",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba65",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba66",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba66",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba66",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba67",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba67",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba67",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba67",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba67",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba68",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba69",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba69",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba70",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba71",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba72",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba72",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba72",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba73",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba74",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba75",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba75",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba76",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba77",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba78",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba79",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba79",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba80",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba81",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba82",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba83",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba83",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba84",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba85",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba86",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba87",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba87",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba88",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba89",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba90",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba91",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba91",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba91",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba92",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba92",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba92",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba93",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba94",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba95",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba95",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba96",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba97",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba98",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba99",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba99",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba99",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba100",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba101",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba101",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba101",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba101",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba102",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba103",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba104",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba105",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba106",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba107",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba108",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba109",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba110",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba111",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba111",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba112",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba112",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba112",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba112",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba113",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba114",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba115",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba116",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba117",
-    "label": 0
+    "label": 0,
+    "argument": "p-health"
   },
   {
     "id": "oba118",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba119",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba120",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba121",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba122",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba123",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba123",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba124",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba125",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba126",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba127",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba128",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba129",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba130",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba131",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba131",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba132",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba133",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba134",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba134",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba134",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba135",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba135",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba135",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba136",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba136",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba136",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba137",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba138",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba138",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba139",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba140",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba141",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba142",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba143",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba144",
-    "label": 0
+    "label": 0,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba144",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba144",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba144",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba145",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba145",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba146",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba146",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba147",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba148",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba149",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba150",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba151",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba151",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba151",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba151",
-    "label": 0
+    "label": 0,
+    "argument": "c-job"
   },
   {
     "id": "oba152",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba153",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba154",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba155",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba156",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba157",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba158",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba159",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba160",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba161",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba162",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba163",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba164",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba165",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba165",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba167",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba168",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba169",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba170",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba170",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba171",
-    "label": 0
+    "label": 0,
+    "argument": "p-health"
   },
   {
     "id": "oba172",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba173",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba173",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba174",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba175",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba175",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba176",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba177",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba178",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba179",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba180",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba181",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba182",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba182",
-    "label": 0
+    "label": 0,
+    "argument": "p-job"
   },
   {
     "id": "oba183",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba185",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba185",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba186",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba186",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba187",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba187",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba9",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba9",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba188",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba189",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba190",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba191",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba192",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba193",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba193",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba194",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba195",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba196",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba196",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba197",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba198",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba199",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba199",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba200",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba200",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba200",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba200",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba200",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba201",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba202",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba203",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba204",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba205",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba206",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba206",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba206",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba207",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba208",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba209",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba210",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba211",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba212",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba212",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba213",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba213",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba213",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba214",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba214",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba215",
-    "label": 0
+    "label": 0,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba216",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba216",
-    "label": 0
+    "label": 0,
+    "argument": "c-job"
   },
   {
     "id": "oba217",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba218",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba219",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba219",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba219",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba220",
-    "label": 0
+    "label": 0,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba221",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba222",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba223",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba224",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba224",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba225",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba225",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba226",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba227",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba229",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba230",
-    "label": 0
+    "label": 0,
+    "argument": "p-health"
   },
   {
     "id": "oba231",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba231",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba232",
-    "label": 0
+    "label": 0,
+    "argument": "p-health"
   },
   {
     "id": "oba233",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba233",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba234",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba234",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba235",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba236",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba237",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba238",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba239",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba240",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba240",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba240",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba241",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba242",
-    "label": 0
+    "label": 0,
+    "argument": "p-job"
   },
   {
     "id": "oba243",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba244",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba244",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba244",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba244",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba245",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba246",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba246",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba247",
-    "label": 0
+    "label": 0,
+    "argument": "p-job"
   },
   {
     "id": "oba248",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba249",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba250",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba251",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba252",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba252",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba253",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba254",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba17",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba17",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba255",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba256",
-    "label": 0
+    "label": 0,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba257",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba258",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba259",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba260",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba261",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba262",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba263",
-    "label": 0
+    "label": 0,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba263",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba264",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba265",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba265",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba266",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba267",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba268",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba269",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba270",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba271",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba271",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba271",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba272",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba273",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba273",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba273",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba274",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba275",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba276",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba277",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba278",
-    "label": 0
+    "label": 0,
+    "argument": "p-health"
   },
   {
     "id": "oba279",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba280",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba280",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba280",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba280",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba281",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba282",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba282",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba283",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba283",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba283",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba283",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba284",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba285",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba285",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba286",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba287",
-    "label": 0
+    "label": 0,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba288",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba288",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba289",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba290",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba291",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba292",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba293",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba294",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba295",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba296",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba297",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba298",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba298",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba298",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba298",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba298",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba299",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba300",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba301",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba302",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba303",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba303",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba304",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba305",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba305",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba306",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba307",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba308",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba308",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba309",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba310",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba311",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba312",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba313",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba313",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba314",
-    "label": 0
+    "label": 0,
+    "argument": "c-job"
   },
   {
     "id": "oba314",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba315",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba316",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba317",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba318",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba319",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba320",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba321",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba322",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba323",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba324",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba325",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba325",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba326",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba327",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba328",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba329",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba330",
-    "label": 1
+    "label": 1,
+    "argument": "c-job"
   },
   {
     "id": "oba331",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba331",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba331",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba331",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba332",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba333",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba334",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba335",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba335",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba336",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba337",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba338",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba338",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba338",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba339",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba339",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba340",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba341",
-    "label": 0
+    "label": 0,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba342",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba343",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba344",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba345",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba346",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba347",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba347",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba348",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba348",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba349",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba350",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba351",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba352",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba353",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba354",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba354",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba354",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba354",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba355",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba355",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba356",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba357",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba358",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba358",
-    "label": 0
+    "label": 0,
+    "argument": "c-War"
   },
   {
     "id": "oba359",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba360",
-    "label": 0
+    "label": 0,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba361",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba361",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba362",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba363",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba364",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba365",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba366",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba367",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba367",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba367",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba367",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba368",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba369",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba369",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba370",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba371",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba371",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba371",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba371",
-    "label": 0
+    "label": 0,
+    "argument": "c-job"
   },
   {
     "id": "oba371",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba372",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba373",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba373",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba373",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba373",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba374",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba375",
-    "label": 0
+    "label": 0,
+    "argument": "p-quality"
   },
   {
     "id": "oba376",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba376",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba376",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba376",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba377",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba378",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba380",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba380",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba381",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba382",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba383",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba383",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba384",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba385",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba386",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba386",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba386",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba387",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba388",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba388",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba389",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba390",
-    "label": 0
+    "label": 0,
+    "argument": "p-War"
   },
   {
     "id": "oba390",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba391",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba391",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba392",
-    "label": 0
+    "label": 0,
+    "argument": "c-job"
   },
   {
     "id": "oba393",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba393",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba393",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba393",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba393",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba394",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba395",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba396",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba397",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba398",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba399",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba400",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba401",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba402",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba403",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba403",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba404",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba405",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba406",
-    "label": 1
+    "label": 1,
+    "argument": "p-Other"
   },
   {
     "id": "oba407",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba407",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba407",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba408",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba409",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba410",
-    "label": 0
+    "label": 0,
+    "argument": "p-republicans"
   },
   {
     "id": "oba411",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba412",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba412",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba413",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba414",
-    "label": 1
+    "label": 1,
+    "argument": "p-job"
   },
   {
     "id": "oba415",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba416",
-    "label": 1
+    "label": 1,
+    "argument": "c-Other"
   },
   {
     "id": "oba416",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba417",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba418",
-    "label": 1
+    "label": 1,
+    "argument": "c-health"
   },
   {
     "id": "oba418",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba419",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba420",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba421",
-    "label": 0
+    "label": 0,
+    "argument": "p-Other"
   },
   {
     "id": "oba422",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba423",
-    "label": 0
+    "label": 0,
+    "argument": "c-health"
   },
   {
     "id": "oba423",
-    "label": 1
+    "label": 1,
+    "argument": "c-quality"
   },
   {
     "id": "oba424",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   },
   {
     "id": "oba425",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba426",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba427",
-    "label": 0
+    "label": 0,
+    "argument": "c-economy"
   },
   {
     "id": "oba428",
-    "label": 1
+    "label": 1,
+    "argument": "p-health"
   },
   {
     "id": "oba429",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba429",
-    "label": 1
+    "label": 1,
+    "argument": "p-republicans"
   },
   {
     "id": "oba430",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba432",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba433",
-    "label": 0
+    "label": 0,
+    "argument": "p-economy"
   },
   {
     "id": "oba434",
-    "label": 1
+    "label": 1,
+    "argument": "p-War"
   },
   {
     "id": "oba434",
-    "label": 1
+    "label": 1,
+    "argument": "p-decision_policies"
   },
   {
     "id": "oba434",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba435",
-    "label": 0
+    "label": 0,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba436",
-    "label": 1
+    "label": 1,
+    "argument": "p-foreign_policies"
   },
   {
     "id": "oba437",
-    "label": 0
+    "label": 0,
+    "argument": "c-Other"
   },
   {
     "id": "oba438",
-    "label": 0
+    "label": 0,
+    "argument": "c-job"
   },
   {
     "id": "oba438",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba439",
-    "label": 1
+    "label": 1,
+    "argument": "p-quality"
   },
   {
     "id": "oba440",
-    "label": 1
+    "label": 1,
+    "argument": "p-economy"
   },
   {
     "id": "oba441",
-    "label": 1
+    "label": 1,
+    "argument": "c-foreign_policies"
   },
   {
     "id": "oba441",
-    "label": 1
+    "label": 1,
+    "argument": "c-War"
   },
   {
     "id": "oba441",
-    "label": 0
+    "label": 0,
+    "argument": "c-republicans"
   },
   {
     "id": "oba441",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba442",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba443",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba443",
-    "label": 1
+    "label": 1,
+    "argument": "c-republicans"
   },
   {
     "id": "oba443",
-    "label": 1
+    "label": 1,
+    "argument": "c-decision_policies"
   },
   {
     "id": "oba444",
-    "label": 1
+    "label": 1,
+    "argument": "c-economy"
   },
   {
     "id": "oba444",
-    "label": 0
+    "label": 0,
+    "argument": "c-quality"
   }
 ]
