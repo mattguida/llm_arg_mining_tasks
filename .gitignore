@@ -1,2 +1,4 @@
 myenv/
 .env
+.tar.gz
+google-cloud-sdk
