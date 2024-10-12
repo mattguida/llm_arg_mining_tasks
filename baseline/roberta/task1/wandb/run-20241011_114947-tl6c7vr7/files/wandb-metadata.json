@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.7-arm64-arm-64bit",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-10-11T00:49:49.653738",
+    "startedAt": "2024-10-11T00:49:47.623465",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/mattguida/llm_arg_mining_tasks.git",
+        "commit": "5165434fb88fdffefc4d9955807ddf312fbf11b5"
+    },
+    "email": "matteo.guidaa@gmail.com",
+    "root": "/Users/guida/llm_argument_tasks",
+    "host": "4148L-220418-M",
+    "username": "guida",
+    "executable": "/Users/guida/llm_argument_tasks/myenv/bin/python",
+    "cpu_count": 11,
+    "cpu_count_logical": 11,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 696,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 696,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.561637878417969
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M3 Pro",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 18.0
+    }
+}

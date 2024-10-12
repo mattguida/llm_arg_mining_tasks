@@ -2354,3 +2354,220 @@
 2024-10-10 17:15:56,186 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
 2024-10-10 17:15:58,464 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
 2024-10-10 17:16:01,268 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:03,485 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:06,289 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:08,498 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:11,181 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:16:11,182 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:16:14,407 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:16,342 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:16,342 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:19,421 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:21,363 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:24,441 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:26,188 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:16:26,193 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:16:29,535 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:31,403 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:34,554 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:36,423 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:39,563 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:41,193 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:16:41,194 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:16:45,503 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:46,456 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:50,518 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:51,475 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:16:55,535 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:16:56,197 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:16:56,197 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:17:01,493 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:01,502 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:06,508 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:06,515 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:11,201 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:17:11,202 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:17:12,433 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:16,560 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:17,446 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:21,576 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:22,465 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:26,206 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:17:26,207 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:17:27,503 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:31,613 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:32,524 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:36,636 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:37,543 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:41,212 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:17:41,212 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:17:43,508 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:46,675 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:48,521 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:51,696 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:17:53,539 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:17:56,215 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:17:56,216 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:17:59,462 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:01,736 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:04,486 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:06,757 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:09,505 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:11,220 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:18:11,221 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:18:14,542 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:16,797 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:19,559 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:21,813 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:24,579 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:26,224 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:18:26,225 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:18:30,477 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:31,851 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:35,497 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:36,870 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:40,509 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:41,228 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:18:41,229 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:18:46,489 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:46,909 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:46,909 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:51,506 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:18:51,925 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:18:56,234 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:18:56,235 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:18:56,548 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:01,569 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:01,967 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:06,579 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:06,986 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:06,986 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:11,237 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:19:11,238 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:19:12,505 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:17,021 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:17,021 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:17,528 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:22,034 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:22,541 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:26,245 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:19:26,245 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:19:26,753 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: resume
+2024-10-10 17:19:26,753 INFO    HandlerThread:92807 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-10-10 17:19:26,754 INFO    HandlerThread:92807 [system_monitor.py:start():194] Starting system monitor
+2024-10-10 17:19:26,755 INFO    SystemMonitor:92807 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-10 17:19:26,757 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started cpu monitoring
+2024-10-10 17:19:26,758 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started disk monitoring
+2024-10-10 17:19:26,760 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started gpuapple monitoring
+2024-10-10 17:19:26,761 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started memory monitoring
+2024-10-10 17:19:26,766 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started network monitoring
+2024-10-10 17:19:26,773 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: pause
+2024-10-10 17:19:26,773 INFO    HandlerThread:92807 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-10-10 17:19:26,773 INFO    HandlerThread:92807 [system_monitor.py:finish():203] Stopping system monitor
+2024-10-10 17:19:26,773 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-10-10 17:19:26,773 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined cpu monitor
+2024-10-10 17:19:26,773 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-10-10 17:19:26,774 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-10-10 17:19:26,774 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined disk monitor
+2024-10-10 17:19:27,310 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-10-10 17:19:27,311 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined memory monitor
+2024-10-10 17:19:27,311 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined network monitor
+2024-10-10 17:19:27,311 DEBUG   SenderThread:92807 [sender.py:send():379] send: stats
+2024-10-10 17:19:28,316 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:29,864 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: resume
+2024-10-10 17:19:29,872 INFO    HandlerThread:92807 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-10-10 17:19:29,872 INFO    HandlerThread:92807 [system_monitor.py:start():194] Starting system monitor
+2024-10-10 17:19:29,872 INFO    SystemMonitor:92807 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-10 17:19:29,873 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started cpu monitoring
+2024-10-10 17:19:29,874 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started disk monitoring
+2024-10-10 17:19:29,875 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: pause
+2024-10-10 17:19:29,875 INFO    HandlerThread:92807 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-10-10 17:19:29,875 INFO    HandlerThread:92807 [system_monitor.py:finish():203] Stopping system monitor
+2024-10-10 17:19:29,875 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started gpuapple monitoring
+2024-10-10 17:19:29,875 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-10-10 17:19:29,875 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-10-10 17:19:29,875 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-10-10 17:19:29,876 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined cpu monitor
+2024-10-10 17:19:29,876 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined disk monitor
+2024-10-10 17:19:29,876 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-10-10 17:19:29,876 DEBUG   SenderThread:92807 [sender.py:send():379] send: stats
+2024-10-10 17:19:32,075 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:33,892 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:37,102 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:37,401 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: resume
+2024-10-10 17:19:37,401 INFO    HandlerThread:92807 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-10-10 17:19:37,401 INFO    HandlerThread:92807 [system_monitor.py:start():194] Starting system monitor
+2024-10-10 17:19:37,401 INFO    SystemMonitor:92807 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-10 17:19:37,401 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started cpu monitoring
+2024-10-10 17:19:37,402 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started disk monitoring
+2024-10-10 17:19:37,402 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started gpuapple monitoring
+2024-10-10 17:19:37,403 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started memory monitoring
+2024-10-10 17:19:37,405 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started network monitoring
+2024-10-10 17:19:38,911 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:40,678 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: pause
+2024-10-10 17:19:40,678 INFO    HandlerThread:92807 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-10-10 17:19:40,678 INFO    HandlerThread:92807 [system_monitor.py:finish():203] Stopping system monitor
+2024-10-10 17:19:40,678 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-10-10 17:19:40,678 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-10-10 17:19:40,678 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined cpu monitor
+2024-10-10 17:19:40,678 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-10-10 17:19:40,678 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined disk monitor
+2024-10-10 17:19:40,679 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-10-10 17:19:40,679 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined memory monitor
+2024-10-10 17:19:40,679 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined network monitor
+2024-10-10 17:19:40,679 DEBUG   SenderThread:92807 [sender.py:send():379] send: stats
+2024-10-10 17:19:41,247 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:19:41,248 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:19:41,259 INFO    Thread-12 :92807 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/guida/llm_argument_tasks/baseline/roberta/task1/wandb/run-20241010_170208-yt6h4eaq/files/output.log
+2024-10-10 17:19:41,873 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: resume
+2024-10-10 17:19:41,873 INFO    HandlerThread:92807 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-10-10 17:19:41,874 INFO    HandlerThread:92807 [system_monitor.py:start():194] Starting system monitor
+2024-10-10 17:19:41,874 INFO    SystemMonitor:92807 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-10 17:19:41,874 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started cpu monitoring
+2024-10-10 17:19:41,874 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started disk monitoring
+2024-10-10 17:19:41,876 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started gpuapple monitoring
+2024-10-10 17:19:41,877 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started memory monitoring
+2024-10-10 17:19:41,878 INFO    SystemMonitor:92807 [interfaces.py:start():188] Started network monitoring
+2024-10-10 17:19:43,270 INFO    Thread-12 :92807 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/guida/llm_argument_tasks/baseline/roberta/task1/wandb/run-20241010_170208-yt6h4eaq/files/output.log
+2024-10-10 17:19:44,911 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:47,134 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:49,935 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:52,151 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:19:54,956 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:19:56,252 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:19:56,252 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:20:00,545 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:02,189 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:05,570 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:07,210 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:10,586 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:11,257 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:20:11,257 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:20:15,594 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:17,285 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:17,287 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:20,617 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:22,274 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:22,276 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:25,640 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:26,472 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-10 17:20:26,472 DEBUG   SenderThread:92807 [sender.py:send_request():406] send_request: stop_status
+2024-10-10 17:20:28,915 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: pause
+2024-10-10 17:20:28,915 INFO    HandlerThread:92807 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-10-10 17:20:28,915 INFO    HandlerThread:92807 [system_monitor.py:finish():203] Stopping system monitor
+2024-10-10 17:20:28,916 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-10-10 17:20:28,917 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-10-10 17:20:28,917 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined cpu monitor
+2024-10-10 17:20:28,917 DEBUG   SystemMonitor:92807 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-10-10 17:20:28,917 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined disk monitor
+2024-10-10 17:20:28,921 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-10-10 17:20:28,921 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined memory monitor
+2024-10-10 17:20:28,921 INFO    HandlerThread:92807 [interfaces.py:finish():200] Joined network monitor
+2024-10-10 17:20:28,921 DEBUG   SenderThread:92807 [sender.py:send():379] send: stats
+2024-10-10 17:20:30,932 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:32,479 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:32,481 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:35,947 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report
+2024-10-10 17:20:37,489 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:37,489 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-10 17:20:40,967 DEBUG   HandlerThread:92807 [handler.py:handle_request():158] handle_request: status_report

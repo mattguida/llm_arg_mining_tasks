@@ -232,3 +232,15 @@ config: {}
 2024-10-10 17:15:11,170 INFO    MainThread:92790 [wandb_run.py:_config_callback():1382] config_cb model/num_parameters 124647170 None
 2024-10-10 17:15:22,055 INFO    MainThread:92790 [jupyter.py:save_ipynb():372] not saving jupyter notebook
 2024-10-10 17:15:22,330 INFO    MainThread:92790 [wandb_init.py:_pause_backend():440] pausing backend
+2024-10-10 17:19:26,752 INFO    MainThread:92790 [wandb_init.py:_resume_backend():445] resuming backend
+2024-10-10 17:19:26,772 INFO    MainThread:92790 [jupyter.py:save_ipynb():372] not saving jupyter notebook
+2024-10-10 17:19:26,772 INFO    MainThread:92790 [wandb_init.py:_pause_backend():440] pausing backend
+2024-10-10 17:19:29,861 INFO    MainThread:92790 [wandb_init.py:_resume_backend():445] resuming backend
+2024-10-10 17:19:29,872 INFO    MainThread:92790 [jupyter.py:save_ipynb():372] not saving jupyter notebook
+2024-10-10 17:19:29,873 INFO    MainThread:92790 [wandb_init.py:_pause_backend():440] pausing backend
+2024-10-10 17:19:37,400 INFO    MainThread:92790 [wandb_init.py:_resume_backend():445] resuming backend
+2024-10-10 17:19:40,678 INFO    MainThread:92790 [jupyter.py:save_ipynb():372] not saving jupyter notebook
+2024-10-10 17:19:40,678 INFO    MainThread:92790 [wandb_init.py:_pause_backend():440] pausing backend
+2024-10-10 17:19:41,873 INFO    MainThread:92790 [wandb_init.py:_resume_backend():445] resuming backend
+2024-10-10 17:20:28,913 INFO    MainThread:92790 [jupyter.py:save_ipynb():372] not saving jupyter notebook
+2024-10-10 17:20:28,914 INFO    MainThread:92790 [wandb_init.py:_pause_backend():440] pausing backend

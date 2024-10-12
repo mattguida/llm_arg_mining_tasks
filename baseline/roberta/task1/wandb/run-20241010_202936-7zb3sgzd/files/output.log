@@ -1,0 +1,15 @@
+
+mps
+mps
+Training Fold 1
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at roberta-base and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[34m[1mwandb[39m[22m: [33mWARNING[39m The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+{'loss': 0.7369, 'grad_norm': 6.41111421585083, 'learning_rate': 1.0000000000000002e-06, 'epoch': 0.0}
+{'loss': 0.7345, 'grad_norm': 7.675421237945557, 'learning_rate': 2.0000000000000003e-06, 'epoch': 0.01}
+{'loss': 0.6861, 'grad_norm': 6.31948184967041, 'learning_rate': 3e-06, 'epoch': 0.01}
+{'loss': 0.6263, 'grad_norm': 4.355988502502441, 'learning_rate': 4.000000000000001e-06, 'epoch': 0.01}
+{'loss': 0.5306, 'grad_norm': 3.8845112323760986, 'learning_rate': 5e-06, 'epoch': 0.02}
+{'loss': 0.3433, 'grad_norm': 1.8356810808181763, 'learning_rate': 6e-06, 'epoch': 0.02}
+Training Fold 1
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at roberta-base and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']

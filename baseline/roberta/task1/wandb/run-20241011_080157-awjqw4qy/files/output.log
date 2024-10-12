@@ -1,0 +1,208 @@
+
+mps
+Overall dataset distribution:
+Total samples: 27764
+label
+0    24187
+1     3577
+Name: count, dtype: int64
+Percentage:
+label
+0    0.871164
+1    0.128836
+Name: proportion, dtype: float64
+==================================================
+Fold 1
+--------------------
+Train size: 22211
+Val size: 5553
+Train distribution:
+label
+0    19349
+1     2862
+Name: count, dtype: int64
+Train percentages:
+label
+0    0.871145
+1    0.128855
+Name: proportion, dtype: float64
+Validation distribution:
+label
+0    4838
+1     715
+Name: count, dtype: int64
+Validation percentages:
+label
+0    0.871241
+1    0.128759
+Name: proportion, dtype: float64
+Fold 2
+--------------------
+Train size: 22211
+Val size: 5553
+Train distribution:
+label
+0    19349
+1     2862
+Name: count, dtype: int64
+Train percentages:
+label
+0    0.871145
+1    0.128855
+Name: proportion, dtype: float64
+Validation distribution:
+label
+0    4838
+1     715
+Name: count, dtype: int64
+Validation percentages:
+label
+0    0.871241
+1    0.128759
+Name: proportion, dtype: float64
+Fold 3
+--------------------
+Train size: 22211
+Val size: 5553
+Train distribution:
+label
+0    19350
+1     2861
+Name: count, dtype: int64
+Train percentages:
+label
+0    0.87119
+1    0.12881
+Name: proportion, dtype: float64
+Validation distribution:
+label
+0    4837
+1     716
+Name: count, dtype: int64
+Validation percentages:
+label
+0    0.871061
+1    0.128939
+Name: proportion, dtype: float64
+Fold 4
+--------------------
+Train size: 22211
+Val size: 5553
+Train distribution:
+label
+0    19350
+1     2861
+Name: count, dtype: int64
+Train percentages:
+label
+0    0.87119
+1    0.12881
+Name: proportion, dtype: float64
+Validation distribution:
+label
+0    4837
+1     716
+Name: count, dtype: int64
+Validation percentages:
+label
+0    0.871061
+1    0.128939
+Name: proportion, dtype: float64
+Fold 5
+--------------------
+Train size: 22212
+Val size: 5552
+Train distribution:
+label
+0    19350
+1     2862
+Name: count, dtype: int64
+Train percentages:
+label
+0    0.871151
+1    0.128849
+Name: proportion, dtype: float64
+Validation distribution:
+label
+0    4837
+1     715
+Name: count, dtype: int64
+Validation percentages:
+label
+0    0.871218
+1    0.128782
+Name: proportion, dtype: float64
+==================== Fold 1 ====================
+Training Dataset:
+Total samples: 22211
+Class 0: 19349 (87.114%)
+Class 1: 2862 (12.886%)
+Validation Dataset:
+Total samples: 5553
+Class 0: 4838 (87.124%)
+Class 1: 715 (12.876%)
+Dataset Verification:
+First few training labels: [0, 1, 0, 0, 0]
+First few validation labels: [1, 1, 0, 0, 0]
+Tensor Shapes:
+Training encodings shape: torch.Size([22211, 512])
+Validation encodings shape: torch.Size([5553, 512])
+==================== Fold 2 ====================
+Training Dataset:
+Total samples: 22211
+Class 0: 19349 (87.114%)
+Class 1: 2862 (12.886%)
+Validation Dataset:
+Total samples: 5553
+Class 0: 4838 (87.124%)
+Class 1: 715 (12.876%)
+Dataset Verification:
+First few training labels: [0, 1, 0, 1, 0]
+First few validation labels: [0, 1, 0, 0, 1]
+Tensor Shapes:
+Training encodings shape: torch.Size([22211, 512])
+Validation encodings shape: torch.Size([5553, 512])
+==================== Fold 3 ====================
+Training Dataset:
+Total samples: 22211
+Class 0: 19350 (87.119%)
+Class 1: 2861 (12.881%)
+Validation Dataset:
+Total samples: 5553
+Class 0: 4837 (87.106%)
+Class 1: 716 (12.894%)
+Dataset Verification:
+First few training labels: [0, 1, 0, 1, 0]
+First few validation labels: [0, 0, 0, 0, 0]
+Tensor Shapes:
+Training encodings shape: torch.Size([22211, 512])
+Validation encodings shape: torch.Size([5553, 512])
+==================== Fold 4 ====================
+Training Dataset:
+Total samples: 22211
+Class 0: 19350 (87.119%)
+Class 1: 2861 (12.881%)
+Validation Dataset:
+Total samples: 5553
+Class 0: 4837 (87.106%)
+Class 1: 716 (12.894%)
+Dataset Verification:
+First few training labels: [0, 1, 0, 0, 1]
+First few validation labels: [0, 1, 0, 0, 0]
+Tensor Shapes:
+Training encodings shape: torch.Size([22211, 512])
+Validation encodings shape: torch.Size([5553, 512])
+==================== Fold 5 ====================
+Training Dataset:
+Total samples: 22212
+Class 0: 19350 (87.115%)
+Class 1: 2862 (12.885%)
+Validation Dataset:
+Total samples: 5552
+Class 0: 4837 (87.122%)
+Class 1: 715 (12.878%)
+Dataset Verification:
+First few training labels: [0, 1, 1, 0, 0]
+First few validation labels: [0, 1, 1, 1, 1]
+Tensor Shapes:
+Training encodings shape: torch.Size([22212, 512])
